@@ -1,0 +1,131 @@
+div.container{
+    border: 0px solid darkcyan;
+    margin-top: 10px;
+    
+}
+.container-fuild{
+    border: 0px solid red;
+}
+
+.color{
+    color: white;
+}
+
+.col-lg-8, .col-lg-4{
+    border: 0px dashed darkcyan;
+}
+.col-3{
+    border: 0px solid green;
+}
+.logo{
+    background-color: #00ade6;
+    height: 70px;
+    width: 80px;
+    text-align: center;
+    color: white;
+    
+    /*font-weight: bold;*/
+}
+
+.nombre{
+    font-size: 22px;
+    text-align: center;
+
+}
+.pst{
+    font-size: 22px
+}
+
+.site-nav-bar{
+    background-color: #00a7e3;
+}
+
+.nav .nav-item .nav-link {
+    color:white;
+    font-size: 14px;
+}
+
+.nav-head{
+    background-color: #4DC2EB;
+    border-radius: 5px;
+    margin: 0.5em 0.5em;
+    padding: 0px 6px;
+}
+
+.ids{
+    background: #000145;
+    color: white;
+    padding: 5px 0px ;
+}
+
+.titre{
+    height: auto;
+    width: 100%;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+
+
+
+.col-lg-6 .col-md-6{
+    background-color: aliceblue;
+    height: 150px;
+
+}
+
+.redim_imag{
+    height: 150px;
+    width: 100%;
+
+}
+
+.col-sm-9 .col-md-3{
+    width: 100%;
+
+}
+
+.inf_cont{
+    background-color: darkgray;
+}
+.mg{
+    margin: 15px 55px;
+}
+
+.info_cont_titre{
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+    font-size: 22px;
+
+}
+
+pas{
+    margin: 15px 0px;
+}
+
+
+.info_heure{
+    margin: 0px 0px 5px 0px;
+    border: 0px dashed green;
+}
+
+.info_contenu{
+    margin: 0px 0px 5px 0px;
+    border: 0px dashed green;
+
+}
+.part_heure{
+    background-color: rgb(0, 136, 255);
+    padding: 5px 10px;
+    margin: 45px 100px 18px 0px;
+}
+
+
+
+
+
+
+
+
+
+
